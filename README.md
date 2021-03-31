@@ -3,7 +3,7 @@ Weather Dashboard
 Description: It's always good to try and plan ahead.  As someone who likes to try and know what I'm doing ahead of time, I need to know what the weather is going
 to be ahead of time.  To help with this need, I developed a simple web app that gives you a five day forecast based on where you are.  The app uses the OpenWeather API to display the weather for the next five days once you type in your city.  The app currently displays temperature, humidity, windspeed and UV index.  Upon re-opening the app, it will display past searches.  
 
-![Alt text](/assets/images/screenshot.png")
+![Alt text](/assets/images/screenshot.png)
 
 Website Link: https://trb5160.github.io/TB_WeatherDashboard/
 Github Repository Link: https://github.com/trb5160/TB_WeatherDashboard.git
